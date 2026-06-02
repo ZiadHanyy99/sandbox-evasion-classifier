@@ -4,7 +4,7 @@
 > Multi-environment malware analysis framework using CAPE Sandbox to detect and classify anti-VM, anti-debug, and anti-sandbox evasion techniques through differential execution analysis.
 
 **Author:** Ziad Hany Mohamed Salem  
-**Department:** AI & Cybersecurity  
+**Department:** Cybersecurity  
 **Date:** May 2026  
 
 ---
